@@ -1,3 +1,5 @@
 1. DevOps is a way of working where developers and operations teams work together to release software faster and more reliably.
 
 2.Git is a version controls system that tracks changes in files and lets you go back to previous versions.
+
+3. Git Hub is an online platform where you can store Git Repositories and collaborate with others.
